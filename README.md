@@ -6,7 +6,7 @@ Agent skills by [dimpurr](https://github.com/dimpurr). Works with Claude Code, C
 
 | Skill | Description |
 |-------|-------------|
-| [grok-bot-gateway](skills/grok-bot-gateway/) | Let outside tools (Claude Code, Codex, scripts, other machines) list, read and message a Grok Bot team through a webhook-triggered gateway Bot `npx skills add dimpurr/skills --skill grok-bot-gateway` · _updated 2026-10-03_ |
+| [grok-bot-gateway](skills/grok-bot-gateway/) | One entry point for both sides of a webhook-triggered Grok Bot gateway: callers (Claude Code, Codex, scripts) list, read and message a Grok Bot team; hosts (a Grok Bot account) set up the gateway Bot. Detects your role and guides you. `npx skills add dimpurr/skills --skill grok-bot-gateway` · _updated 2026-10-03_ |
 
 ## Quick Install
 
