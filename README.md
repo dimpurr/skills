@@ -39,6 +39,10 @@ Each skill is a directory under `skills/` with a `SKILL.md` file. Copy the whole
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-skill folder convention.
 
+## See also
+
+- [iopho-skills](https://github.com/iopho-team/iopho-skills): Agent skills for iopho products (reading, notes, video production).
+
 ## License
 
 [Apache-2.0](LICENSE). Copyright 2026 dimpurr <dimpurr@live.com>.
